@@ -1,6 +1,3 @@
 <resources>
-    <string name="app_name">Allen-Spitwise</string>
-    <string name="title_activity_main">MainActivity</string>
-    <string name="tab_text_1">Add</string>
-    <string name="tab_text_2">View Expanses</string>
+    <string name="app_name">Empty-project</string>
 </resources>
